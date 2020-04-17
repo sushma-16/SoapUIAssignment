@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="APIAssignment" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="ProductRepository">C:/Users/SUSHMAPATTAR/Documents/Soap Project/Assignment/ProductRepository-soapui-project.xml</con:project>
+  <con:project name="ProductList">C:/Users/SUSHMAPATTAR/Documents/Soap Project/Assignment/ProductList-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
